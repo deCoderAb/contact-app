@@ -1,0 +1,26 @@
+.App {
+    text-align: center;
+  }
+  
+  .btn{
+    padding: 0.3rem 0.8rem;
+    color: white;
+    background-color: #0478eb;
+    border: none;
+    border-radius: 5px;
+  }
+  .Danger{
+    padding: 0.3rem 0.8rem;
+    border: none;
+    color: white;
+    background-color: rgb(251, 40, 40);
+    border-radius: 5px;
+  }
+  .bold{
+    font-size: large;
+    font-weight: 500;
+  }
+  .box{   
+    color: white;
+    background-color: rgb(79, 78, 78);
+  }
